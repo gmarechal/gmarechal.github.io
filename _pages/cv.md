@@ -17,6 +17,10 @@ Education
 
 Experiences-Research
 ======
+* PodDoc
+  * LEGOS
+  * Supervisor: L.Renault
+
 * Research Associate
   * Colorado School of Mines
   * Supervisor: Bia Villas Bôas
@@ -75,10 +79,14 @@ Summerschool
   * Duties included: Ocean-Ice-Land physics and pbservation from space classes. Global Warming project + presentation
   * Supervisor: JPL-Caltech
   
+* Summer 2023: NASA Summer School on Satellite Observations and Climate Models
+  * NASA-Jet Propulsion Laboratory (JPL) & California Institute of Technology (Caltech)
+  * Duties included: Ocean-Ice-Land physics and pbservation from space classes. Global Warming project + presentation
+  * Supervisor: JPL-Caltech
 Skills
 ======
-* Python, Matlab, bash
-* WAVEWATCH-III numerical framework, WAves Stereo System (3-D reconstruction), Stream-7
+* Python, Matlab, bash, Fortran
+* WAVEWATCH-III numerical framework, CROCO, WRF, WAves Stereo System (3-D reconstruction), Stream-7
 * High Performance Computer facilities
 
 * First aid
